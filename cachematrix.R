@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-##initial
+##2nd
 makeCacheMatrix <- function(x = matrix()) {
 
 }
